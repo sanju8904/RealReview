@@ -1,0 +1,7 @@
+com\realreview\model\PropertyImage$Status.class
+com\realreview\repository\PropertyImageRepository.class
+com\realreview\service\PropertyImageService.class
+com\realreview\AppConfig.class
+com\realreview\controller\PropertyImageController.class
+com\realreview\App.class
+com\realreview\model\PropertyImage.class
